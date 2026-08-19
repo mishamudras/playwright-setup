@@ -17,6 +17,7 @@ košík až po dokončení objednávky, včetně negativního scénáře.
 - Přihlášení zablokovaným uživatelem (negativní scénář)
 - Řazení produktů podle ceny
 
+
 ## Jak spustit lokálně
 npm install
 npx playwright test
@@ -36,3 +37,12 @@ Složka `mcp-tests/` obsahuje sadu evalů z MCPJam Inspectoru proti MCP
 filesystem serveru — ověřují, že AI agent volá správné nástroje (čtení, 
 zápis, vícekrokové operace) a bezpečně odmítá destruktivní požadavky, 
 na které server nemá nástroje.
+
+## API testy
+Samostatná sada testů v `tests/api/` proti veřejnému REST API 
+(jsonplaceholder.typicode.com), bez zapojení prohlížeče — pokrývá:
+- GET (čtení dat)
+- POST (vytvoření)
+- PATCH (úprava)
+- DELETE (smazání)
+- Negativní scénář (404 na neexistující záznam)
