@@ -1,0 +1,1741 @@
+{
+  "resourceSpans": [
+    {
+      "resource": {
+        "attributes": [
+          {
+            "key": "service.name",
+            "value": {
+              "stringValue": "mcpjam"
+            }
+          },
+          {
+            "key": "mcpjam.project_id",
+            "value": {
+              "stringValue": "v97a589krts8913mmt90g6vry18crw9a"
+            }
+          },
+          {
+            "key": "mcpjam.workspace_id",
+            "value": {
+              "stringValue": "nn7836k4fqjhz23wycg4e6tmxx8csmse"
+            }
+          }
+        ]
+      },
+      "scopeSpans": [
+        {
+          "scope": {
+            "name": "mcpjam.openinference",
+            "version": "1"
+          },
+          "spans": [
+            {
+              "attributes": [
+                {
+                  "key": "openinference.span.kind",
+                  "value": {
+                    "stringValue": "TOOL"
+                  }
+                },
+                {
+                  "key": "session.id",
+                  "value": {
+                    "stringValue": "eval_m974cmq4s98ktwnrdqqv2ny4k98csk75"
+                  }
+                },
+                {
+                  "key": "gen_ai.conversation.id",
+                  "value": {
+                    "stringValue": "eval_m974cmq4s98ktwnrdqqv2ny4k98csk75"
+                  }
+                },
+                {
+                  "key": "mcpjam.source_type",
+                  "value": {
+                    "stringValue": "eval"
+                  }
+                },
+                {
+                  "key": "tool.name",
+                  "value": {
+                    "stringValue": "write_file"
+                  }
+                },
+                {
+                  "key": "gen_ai.tool.name",
+                  "value": {
+                    "stringValue": "write_file"
+                  }
+                },
+                {
+                  "key": "tool.id",
+                  "value": {
+                    "stringValue": "toolu_01TkMngnanURL4KAcAYLDA2E"
+                  }
+                },
+                {
+                  "key": "tool_call.id",
+                  "value": {
+                    "stringValue": "toolu_01TkMngnanURL4KAcAYLDA2E"
+                  }
+                },
+                {
+                  "key": "gen_ai.tool.call.id",
+                  "value": {
+                    "stringValue": "toolu_01TkMngnanURL4KAcAYLDA2E"
+                  }
+                },
+                {
+                  "key": "mcpjam.server_id",
+                  "value": {
+                    "stringValue": "projects"
+                  }
+                }
+              ],
+              "endTimeUnixNano": "2588000000",
+              "kind": 1,
+              "name": "write_file",
+              "spanId": "748a9b2a8fdefead",
+              "startTimeUnixNano": "2548000000",
+              "status": {
+                "code": 1
+              },
+              "traceId": "56264f889723785e24d4e6b998ce632b"
+            },
+            {
+              "attributes": [
+                {
+                  "key": "openinference.span.kind",
+                  "value": {
+                    "stringValue": "TOOL"
+                  }
+                },
+                {
+                  "key": "session.id",
+                  "value": {
+                    "stringValue": "eval_m974cmq4s98ktwnrdqqv2ny4k98csk75"
+                  }
+                },
+                {
+                  "key": "gen_ai.conversation.id",
+                  "value": {
+                    "stringValue": "eval_m974cmq4s98ktwnrdqqv2ny4k98csk75"
+                  }
+                },
+                {
+                  "key": "mcpjam.source_type",
+                  "value": {
+                    "stringValue": "eval"
+                  }
+                },
+                {
+                  "key": "tool.name",
+                  "value": {
+                    "stringValue": "read_text_file"
+                  }
+                },
+                {
+                  "key": "gen_ai.tool.name",
+                  "value": {
+                    "stringValue": "read_text_file"
+                  }
+                },
+                {
+                  "key": "tool.id",
+                  "value": {
+                    "stringValue": "toolu_018EziJF2ud62Fk3yJqRsYio"
+                  }
+                },
+                {
+                  "key": "tool_call.id",
+                  "value": {
+                    "stringValue": "toolu_018EziJF2ud62Fk3yJqRsYio"
+                  }
+                },
+                {
+                  "key": "gen_ai.tool.call.id",
+                  "value": {
+                    "stringValue": "toolu_018EziJF2ud62Fk3yJqRsYio"
+                  }
+                },
+                {
+                  "key": "mcpjam.server_id",
+                  "value": {
+                    "stringValue": "projects"
+                  }
+                }
+              ],
+              "endTimeUnixNano": "5003000000",
+              "kind": 1,
+              "name": "read_text_file",
+              "spanId": "ddfb3fda5da2d506",
+              "startTimeUnixNano": "4991000000",
+              "status": {
+                "code": 1
+              },
+              "traceId": "56264f889723785e24d4e6b998ce632b"
+            },
+            {
+              "attributes": [
+                {
+                  "key": "openinference.span.kind",
+                  "value": {
+                    "stringValue": "TOOL"
+                  }
+                },
+                {
+                  "key": "session.id",
+                  "value": {
+                    "stringValue": "eval_m974cmq4s98ktwnrdqqv2ny4k98csk75"
+                  }
+                },
+                {
+                  "key": "gen_ai.conversation.id",
+                  "value": {
+                    "stringValue": "eval_m974cmq4s98ktwnrdqqv2ny4k98csk75"
+                  }
+                },
+                {
+                  "key": "mcpjam.source_type",
+                  "value": {
+                    "stringValue": "eval"
+                  }
+                },
+                {
+                  "key": "tool.name",
+                  "value": {
+                    "stringValue": "write_file"
+                  }
+                },
+                {
+                  "key": "gen_ai.tool.name",
+                  "value": {
+                    "stringValue": "write_file"
+                  }
+                },
+                {
+                  "key": "tool.id",
+                  "value": {
+                    "stringValue": "toolu_01TkMngnanURL4KAcAYLDA2E"
+                  }
+                },
+                {
+                  "key": "tool_call.id",
+                  "value": {
+                    "stringValue": "toolu_01TkMngnanURL4KAcAYLDA2E"
+                  }
+                },
+                {
+                  "key": "gen_ai.tool.call.id",
+                  "value": {
+                    "stringValue": "toolu_01TkMngnanURL4KAcAYLDA2E"
+                  }
+                },
+                {
+                  "key": "mcpjam.server_id",
+                  "value": {
+                    "stringValue": "projects"
+                  }
+                }
+              ],
+              "endTimeUnixNano": "1989000000",
+              "kind": 1,
+              "name": "write_file",
+              "parentSpanId": "d227f45a4b847a1e",
+              "spanId": "6a733687d9f606fc",
+              "startTimeUnixNano": "1949000000",
+              "status": {
+                "code": 1
+              },
+              "traceId": "56264f889723785e24d4e6b998ce632b"
+            },
+            {
+              "attributes": [
+                {
+                  "key": "openinference.span.kind",
+                  "value": {
+                    "stringValue": "CHAIN"
+                  }
+                },
+                {
+                  "key": "session.id",
+                  "value": {
+                    "stringValue": "eval_m974cmq4s98ktwnrdqqv2ny4k98csk75"
+                  }
+                },
+                {
+                  "key": "gen_ai.conversation.id",
+                  "value": {
+                    "stringValue": "eval_m974cmq4s98ktwnrdqqv2ny4k98csk75"
+                  }
+                },
+                {
+                  "key": "mcpjam.source_type",
+                  "value": {
+                    "stringValue": "eval"
+                  }
+                },
+                {
+                  "key": "mcpjam.finish_reason",
+                  "value": {
+                    "stringValue": "tool-calls"
+                  }
+                }
+              ],
+              "endTimeUnixNano": "1989000000",
+              "kind": 1,
+              "name": "Step 1",
+              "spanId": "d227f45a4b847a1e",
+              "startTimeUnixNano": "0",
+              "status": {
+                "code": 1
+              },
+              "traceId": "56264f889723785e24d4e6b998ce632b"
+            },
+            {
+              "attributes": [
+                {
+                  "key": "openinference.span.kind",
+                  "value": {
+                    "stringValue": "LLM"
+                  }
+                },
+                {
+                  "key": "session.id",
+                  "value": {
+                    "stringValue": "eval_m974cmq4s98ktwnrdqqv2ny4k98csk75"
+                  }
+                },
+                {
+                  "key": "gen_ai.conversation.id",
+                  "value": {
+                    "stringValue": "eval_m974cmq4s98ktwnrdqqv2ny4k98csk75"
+                  }
+                },
+                {
+                  "key": "mcpjam.source_type",
+                  "value": {
+                    "stringValue": "eval"
+                  }
+                },
+                {
+                  "key": "llm.model_name",
+                  "value": {
+                    "stringValue": "anthropic/claude-haiku-4.5"
+                  }
+                },
+                {
+                  "key": "gen_ai.request.model",
+                  "value": {
+                    "stringValue": "anthropic/claude-haiku-4.5"
+                  }
+                },
+                {
+                  "key": "llm.system",
+                  "value": {
+                    "stringValue": "anthropic"
+                  }
+                },
+                {
+                  "key": "llm.provider",
+                  "value": {
+                    "stringValue": "anthropic"
+                  }
+                },
+                {
+                  "key": "gen_ai.provider.name",
+                  "value": {
+                    "stringValue": "anthropic"
+                  }
+                },
+                {
+                  "key": "llm.token_count.prompt",
+                  "value": {
+                    "intValue": "2769"
+                  }
+                },
+                {
+                  "key": "gen_ai.usage.input_tokens",
+                  "value": {
+                    "intValue": "2769"
+                  }
+                },
+                {
+                  "key": "llm.token_count.completion",
+                  "value": {
+                    "intValue": "110"
+                  }
+                },
+                {
+                  "key": "gen_ai.usage.output_tokens",
+                  "value": {
+                    "intValue": "110"
+                  }
+                },
+                {
+                  "key": "llm.token_count.total",
+                  "value": {
+                    "intValue": "2879"
+                  }
+                },
+                {
+                  "key": "gen_ai.response.finish_reasons",
+                  "value": {
+                    "arrayValue": {
+                      "values": [
+                        {
+                          "stringValue": "tool-calls"
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "key": "gen_ai.response.time_to_first_chunk",
+                  "value": {
+                    "doubleValue": 0.37
+                  }
+                },
+                {
+                  "key": "llm.output_messages.0.message.role",
+                  "value": {
+                    "stringValue": "assistant"
+                  }
+                },
+                {
+                  "key": "llm.output_messages.0.message.content",
+                  "value": {
+                    "stringValue": "Vytvořím soubor `poznamky.txt` ve složce C:\\Projects a pak ho přečtu.\n{\"input\":{\"content\":\"test poznámka\",\"path\":\"C:\\\\Projects\\\\poznamky.txt\"},\"providerOptions\":{\"anthropic\":{\"caller\":{\"type\":\"direct\"}},\"mcpjam\":{\"serverId\":\"projects\"}},\"toolCallId\":\"toolu_01TkMngnanURL4KAcAYLDA2E\",\"toolName\":\"write_file\",\"type\":\"tool-call\"}"
+                  }
+                },
+                {
+                  "key": "llm.input_messages.0.message.role",
+                  "value": {
+                    "stringValue": "tool"
+                  }
+                },
+                {
+                  "key": "llm.input_messages.0.message.content",
+                  "value": {
+                    "stringValue": "{\"output\":{\"type\":\"json\",\"value\":{\"content\":[{\"text\":\"Successfully wrote to C:\\\\Projects\\\\poznamky.txt\",\"type\":\"text\"}],\"structuredContent\":{\"content\":\"Successfully wrote to C:\\\\Projects\\\\poznamky.txt\"}}},\"providerOptions\":{\"mcpjam\":{\"serverId\":\"projects\"}},\"result\":{\"content\":[{\"text\":\"Successfully wrote to C:\\\\Projects\\\\poznamky.txt\",\"type\":\"text\"}],\"structuredContent\":{\"content\":\"Successfully wrote to C:\\\\Projects\\\\poznamky.txt\"}},\"serverId\":\"projects\",\"toolCallId\":\"toolu_01TkMngnanURL4KAcAYLDA2E\",\"toolName\":\"write_file\",\"type\":\"tool-result\"}"
+                  }
+                },
+                {
+                  "key": "mcpjam.finish_reason",
+                  "value": {
+                    "stringValue": "tool-calls"
+                  }
+                }
+              ],
+              "endTimeUnixNano": "1949000000",
+              "kind": 1,
+              "name": "anthropic/claude-haiku-4.5 · response",
+              "parentSpanId": "d227f45a4b847a1e",
+              "spanId": "6a0cbfa1c1d50d11",
+              "startTimeUnixNano": "0",
+              "status": {
+                "code": 1
+              },
+              "traceId": "56264f889723785e24d4e6b998ce632b"
+            },
+            {
+              "attributes": [
+                {
+                  "key": "openinference.span.kind",
+                  "value": {
+                    "stringValue": "TOOL"
+                  }
+                },
+                {
+                  "key": "session.id",
+                  "value": {
+                    "stringValue": "eval_m974cmq4s98ktwnrdqqv2ny4k98csk75"
+                  }
+                },
+                {
+                  "key": "gen_ai.conversation.id",
+                  "value": {
+                    "stringValue": "eval_m974cmq4s98ktwnrdqqv2ny4k98csk75"
+                  }
+                },
+                {
+                  "key": "mcpjam.source_type",
+                  "value": {
+                    "stringValue": "eval"
+                  }
+                },
+                {
+                  "key": "tool.name",
+                  "value": {
+                    "stringValue": "read_text_file"
+                  }
+                },
+                {
+                  "key": "gen_ai.tool.name",
+                  "value": {
+                    "stringValue": "read_text_file"
+                  }
+                },
+                {
+                  "key": "tool.id",
+                  "value": {
+                    "stringValue": "toolu_018EziJF2ud62Fk3yJqRsYio"
+                  }
+                },
+                {
+                  "key": "tool_call.id",
+                  "value": {
+                    "stringValue": "toolu_018EziJF2ud62Fk3yJqRsYio"
+                  }
+                },
+                {
+                  "key": "gen_ai.tool.call.id",
+                  "value": {
+                    "stringValue": "toolu_018EziJF2ud62Fk3yJqRsYio"
+                  }
+                },
+                {
+                  "key": "mcpjam.server_id",
+                  "value": {
+                    "stringValue": "projects"
+                  }
+                }
+              ],
+              "endTimeUnixNano": "4404000000",
+              "kind": 1,
+              "name": "read_text_file",
+              "parentSpanId": "c35e6494b4fc84e1",
+              "spanId": "8f4b931a7b003c92",
+              "startTimeUnixNano": "4392000000",
+              "status": {
+                "code": 1
+              },
+              "traceId": "56264f889723785e24d4e6b998ce632b"
+            },
+            {
+              "attributes": [
+                {
+                  "key": "openinference.span.kind",
+                  "value": {
+                    "stringValue": "CHAIN"
+                  }
+                },
+                {
+                  "key": "session.id",
+                  "value": {
+                    "stringValue": "eval_m974cmq4s98ktwnrdqqv2ny4k98csk75"
+                  }
+                },
+                {
+                  "key": "gen_ai.conversation.id",
+                  "value": {
+                    "stringValue": "eval_m974cmq4s98ktwnrdqqv2ny4k98csk75"
+                  }
+                },
+                {
+                  "key": "mcpjam.source_type",
+                  "value": {
+                    "stringValue": "eval"
+                  }
+                },
+                {
+                  "key": "mcpjam.finish_reason",
+                  "value": {
+                    "stringValue": "tool-calls"
+                  }
+                }
+              ],
+              "endTimeUnixNano": "4404000000",
+              "kind": 1,
+              "name": "Step 2",
+              "spanId": "c35e6494b4fc84e1",
+              "startTimeUnixNano": "1989000000",
+              "status": {
+                "code": 1
+              },
+              "traceId": "56264f889723785e24d4e6b998ce632b"
+            },
+            {
+              "attributes": [
+                {
+                  "key": "openinference.span.kind",
+                  "value": {
+                    "stringValue": "LLM"
+                  }
+                },
+                {
+                  "key": "session.id",
+                  "value": {
+                    "stringValue": "eval_m974cmq4s98ktwnrdqqv2ny4k98csk75"
+                  }
+                },
+                {
+                  "key": "gen_ai.conversation.id",
+                  "value": {
+                    "stringValue": "eval_m974cmq4s98ktwnrdqqv2ny4k98csk75"
+                  }
+                },
+                {
+                  "key": "mcpjam.source_type",
+                  "value": {
+                    "stringValue": "eval"
+                  }
+                },
+                {
+                  "key": "llm.model_name",
+                  "value": {
+                    "stringValue": "anthropic/claude-haiku-4.5"
+                  }
+                },
+                {
+                  "key": "gen_ai.request.model",
+                  "value": {
+                    "stringValue": "anthropic/claude-haiku-4.5"
+                  }
+                },
+                {
+                  "key": "llm.system",
+                  "value": {
+                    "stringValue": "anthropic"
+                  }
+                },
+                {
+                  "key": "llm.provider",
+                  "value": {
+                    "stringValue": "anthropic"
+                  }
+                },
+                {
+                  "key": "gen_ai.provider.name",
+                  "value": {
+                    "stringValue": "anthropic"
+                  }
+                },
+                {
+                  "key": "llm.token_count.prompt",
+                  "value": {
+                    "intValue": "2937"
+                  }
+                },
+                {
+                  "key": "gen_ai.usage.input_tokens",
+                  "value": {
+                    "intValue": "2937"
+                  }
+                },
+                {
+                  "key": "llm.token_count.completion",
+                  "value": {
+                    "intValue": "98"
+                  }
+                },
+                {
+                  "key": "gen_ai.usage.output_tokens",
+                  "value": {
+                    "intValue": "98"
+                  }
+                },
+                {
+                  "key": "llm.token_count.total",
+                  "value": {
+                    "intValue": "3035"
+                  }
+                },
+                {
+                  "key": "gen_ai.response.finish_reasons",
+                  "value": {
+                    "arrayValue": {
+                      "values": [
+                        {
+                          "stringValue": "tool-calls"
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "key": "gen_ai.response.time_to_first_chunk",
+                  "value": {
+                    "doubleValue": 0.386
+                  }
+                },
+                {
+                  "key": "llm.output_messages.0.message.role",
+                  "value": {
+                    "stringValue": "assistant"
+                  }
+                },
+                {
+                  "key": "llm.output_messages.0.message.content",
+                  "value": {
+                    "stringValue": "Vytvořím soubor `poznamky.txt` ve složce C:\\Projects a pak ho přečtu.\n{\"input\":{\"content\":\"test poznámka\",\"path\":\"C:\\\\Projects\\\\poznamky.txt\"},\"providerOptions\":{\"anthropic\":{\"caller\":{\"type\":\"direct\"}},\"mcpjam\":{\"serverId\":\"projects\"}},\"toolCallId\":\"toolu_01TkMngnanURL4KAcAYLDA2E\",\"toolName\":\"write_file\",\"type\":\"tool-call\"}"
+                  }
+                },
+                {
+                  "key": "llm.input_messages.0.message.role",
+                  "value": {
+                    "stringValue": "tool"
+                  }
+                },
+                {
+                  "key": "llm.input_messages.0.message.content",
+                  "value": {
+                    "stringValue": "{\"output\":{\"type\":\"json\",\"value\":{\"content\":[{\"text\":\"Successfully wrote to C:\\\\Projects\\\\poznamky.txt\",\"type\":\"text\"}],\"structuredContent\":{\"content\":\"Successfully wrote to C:\\\\Projects\\\\poznamky.txt\"}}},\"providerOptions\":{\"mcpjam\":{\"serverId\":\"projects\"}},\"result\":{\"content\":[{\"text\":\"Successfully wrote to C:\\\\Projects\\\\poznamky.txt\",\"type\":\"text\"}],\"structuredContent\":{\"content\":\"Successfully wrote to C:\\\\Projects\\\\poznamky.txt\"}},\"serverId\":\"projects\",\"toolCallId\":\"toolu_01TkMngnanURL4KAcAYLDA2E\",\"toolName\":\"write_file\",\"type\":\"tool-result\"}"
+                  }
+                },
+                {
+                  "key": "llm.output_messages.1.message.role",
+                  "value": {
+                    "stringValue": "assistant"
+                  }
+                },
+                {
+                  "key": "llm.output_messages.1.message.content",
+                  "value": {
+                    "stringValue": "Skvělé! Soubor byl vytvořen. Teď ho přečtu, abych ti ověřil obsah:\n{\"input\":{\"path\":\"C:\\\\Projects\\\\poznamky.txt\"},\"providerOptions\":{\"anthropic\":{\"caller\":{\"type\":\"direct\"}},\"mcpjam\":{\"serverId\":\"projects\"}},\"toolCallId\":\"toolu_018EziJF2ud62Fk3yJqRsYio\",\"toolName\":\"read_text_file\",\"type\":\"tool-call\"}"
+                  }
+                },
+                {
+                  "key": "llm.input_messages.1.message.role",
+                  "value": {
+                    "stringValue": "tool"
+                  }
+                },
+                {
+                  "key": "llm.input_messages.1.message.content",
+                  "value": {
+                    "stringValue": "{\"output\":{\"type\":\"json\",\"value\":{\"content\":[{\"text\":\"test poznámka\",\"type\":\"text\"}],\"structuredContent\":{\"content\":\"test poznámka\"}}},\"providerOptions\":{\"mcpjam\":{\"serverId\":\"projects\"}},\"result\":{\"content\":[{\"text\":\"test poznámka\",\"type\":\"text\"}],\"structuredContent\":{\"content\":\"test poznámka\"}},\"serverId\":\"projects\",\"toolCallId\":\"toolu_018EziJF2ud62Fk3yJqRsYio\",\"toolName\":\"read_text_file\",\"type\":\"tool-result\"}"
+                  }
+                },
+                {
+                  "key": "mcpjam.finish_reason",
+                  "value": {
+                    "stringValue": "tool-calls"
+                  }
+                }
+              ],
+              "endTimeUnixNano": "4392000000",
+              "kind": 1,
+              "name": "anthropic/claude-haiku-4.5 · response",
+              "parentSpanId": "c35e6494b4fc84e1",
+              "spanId": "2fd69b1166c9c2d5",
+              "startTimeUnixNano": "1989000000",
+              "status": {
+                "code": 1
+              },
+              "traceId": "56264f889723785e24d4e6b998ce632b"
+            },
+            {
+              "attributes": [
+                {
+                  "key": "openinference.span.kind",
+                  "value": {
+                    "stringValue": "CHAIN"
+                  }
+                },
+                {
+                  "key": "session.id",
+                  "value": {
+                    "stringValue": "eval_m974cmq4s98ktwnrdqqv2ny4k98csk75"
+                  }
+                },
+                {
+                  "key": "gen_ai.conversation.id",
+                  "value": {
+                    "stringValue": "eval_m974cmq4s98ktwnrdqqv2ny4k98csk75"
+                  }
+                },
+                {
+                  "key": "mcpjam.source_type",
+                  "value": {
+                    "stringValue": "eval"
+                  }
+                },
+                {
+                  "key": "mcpjam.finish_reason",
+                  "value": {
+                    "stringValue": "stop"
+                  }
+                }
+              ],
+              "endTimeUnixNano": "6102000000",
+              "kind": 1,
+              "name": "Step 3",
+              "spanId": "7a33881e4b3b36b3",
+              "startTimeUnixNano": "4405000000",
+              "status": {
+                "code": 1
+              },
+              "traceId": "56264f889723785e24d4e6b998ce632b"
+            },
+            {
+              "attributes": [
+                {
+                  "key": "openinference.span.kind",
+                  "value": {
+                    "stringValue": "LLM"
+                  }
+                },
+                {
+                  "key": "session.id",
+                  "value": {
+                    "stringValue": "eval_m974cmq4s98ktwnrdqqv2ny4k98csk75"
+                  }
+                },
+                {
+                  "key": "gen_ai.conversation.id",
+                  "value": {
+                    "stringValue": "eval_m974cmq4s98ktwnrdqqv2ny4k98csk75"
+                  }
+                },
+                {
+                  "key": "mcpjam.source_type",
+                  "value": {
+                    "stringValue": "eval"
+                  }
+                },
+                {
+                  "key": "llm.model_name",
+                  "value": {
+                    "stringValue": "anthropic/claude-haiku-4.5"
+                  }
+                },
+                {
+                  "key": "gen_ai.request.model",
+                  "value": {
+                    "stringValue": "anthropic/claude-haiku-4.5"
+                  }
+                },
+                {
+                  "key": "llm.system",
+                  "value": {
+                    "stringValue": "anthropic"
+                  }
+                },
+                {
+                  "key": "llm.provider",
+                  "value": {
+                    "stringValue": "anthropic"
+                  }
+                },
+                {
+                  "key": "gen_ai.provider.name",
+                  "value": {
+                    "stringValue": "anthropic"
+                  }
+                },
+                {
+                  "key": "llm.token_count.prompt",
+                  "value": {
+                    "intValue": "3077"
+                  }
+                },
+                {
+                  "key": "gen_ai.usage.input_tokens",
+                  "value": {
+                    "intValue": "3077"
+                  }
+                },
+                {
+                  "key": "llm.token_count.completion",
+                  "value": {
+                    "intValue": "76"
+                  }
+                },
+                {
+                  "key": "gen_ai.usage.output_tokens",
+                  "value": {
+                    "intValue": "76"
+                  }
+                },
+                {
+                  "key": "llm.token_count.total",
+                  "value": {
+                    "intValue": "3153"
+                  }
+                },
+                {
+                  "key": "gen_ai.response.finish_reasons",
+                  "value": {
+                    "arrayValue": {
+                      "values": [
+                        {
+                          "stringValue": "stop"
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "key": "gen_ai.response.time_to_first_chunk",
+                  "value": {
+                    "doubleValue": 0.315
+                  }
+                },
+                {
+                  "key": "llm.output_messages.0.message.role",
+                  "value": {
+                    "stringValue": "assistant"
+                  }
+                },
+                {
+                  "key": "llm.output_messages.0.message.content",
+                  "value": {
+                    "stringValue": "Vytvořím soubor `poznamky.txt` ve složce C:\\Projects a pak ho přečtu.\n{\"input\":{\"content\":\"test poznámka\",\"path\":\"C:\\\\Projects\\\\poznamky.txt\"},\"providerOptions\":{\"anthropic\":{\"caller\":{\"type\":\"direct\"}},\"mcpjam\":{\"serverId\":\"projects\"}},\"toolCallId\":\"toolu_01TkMngnanURL4KAcAYLDA2E\",\"toolName\":\"write_file\",\"type\":\"tool-call\"}"
+                  }
+                },
+                {
+                  "key": "llm.input_messages.0.message.role",
+                  "value": {
+                    "stringValue": "tool"
+                  }
+                },
+                {
+                  "key": "llm.input_messages.0.message.content",
+                  "value": {
+                    "stringValue": "{\"output\":{\"type\":\"json\",\"value\":{\"content\":[{\"text\":\"Successfully wrote to C:\\\\Projects\\\\poznamky.txt\",\"type\":\"text\"}],\"structuredContent\":{\"content\":\"Successfully wrote to C:\\\\Projects\\\\poznamky.txt\"}}},\"providerOptions\":{\"mcpjam\":{\"serverId\":\"projects\"}},\"result\":{\"content\":[{\"text\":\"Successfully wrote to C:\\\\Projects\\\\poznamky.txt\",\"type\":\"text\"}],\"structuredContent\":{\"content\":\"Successfully wrote to C:\\\\Projects\\\\poznamky.txt\"}},\"serverId\":\"projects\",\"toolCallId\":\"toolu_01TkMngnanURL4KAcAYLDA2E\",\"toolName\":\"write_file\",\"type\":\"tool-result\"}"
+                  }
+                },
+                {
+                  "key": "llm.output_messages.1.message.role",
+                  "value": {
+                    "stringValue": "assistant"
+                  }
+                },
+                {
+                  "key": "llm.output_messages.1.message.content",
+                  "value": {
+                    "stringValue": "Skvělé! Soubor byl vytvořen. Teď ho přečtu, abych ti ověřil obsah:\n{\"input\":{\"path\":\"C:\\\\Projects\\\\poznamky.txt\"},\"providerOptions\":{\"anthropic\":{\"caller\":{\"type\":\"direct\"}},\"mcpjam\":{\"serverId\":\"projects\"}},\"toolCallId\":\"toolu_018EziJF2ud62Fk3yJqRsYio\",\"toolName\":\"read_text_file\",\"type\":\"tool-call\"}"
+                  }
+                },
+                {
+                  "key": "llm.input_messages.1.message.role",
+                  "value": {
+                    "stringValue": "tool"
+                  }
+                },
+                {
+                  "key": "llm.input_messages.1.message.content",
+                  "value": {
+                    "stringValue": "{\"output\":{\"type\":\"json\",\"value\":{\"content\":[{\"text\":\"test poznámka\",\"type\":\"text\"}],\"structuredContent\":{\"content\":\"test poznámka\"}}},\"providerOptions\":{\"mcpjam\":{\"serverId\":\"projects\"}},\"result\":{\"content\":[{\"text\":\"test poznámka\",\"type\":\"text\"}],\"structuredContent\":{\"content\":\"test poznámka\"}},\"serverId\":\"projects\",\"toolCallId\":\"toolu_018EziJF2ud62Fk3yJqRsYio\",\"toolName\":\"read_text_file\",\"type\":\"tool-result\"}"
+                  }
+                },
+                {
+                  "key": "llm.output_messages.2.message.role",
+                  "value": {
+                    "stringValue": "assistant"
+                  }
+                },
+                {
+                  "key": "llm.output_messages.2.message.content",
+                  "value": {
+                    "stringValue": "Perfektně! ✓ Soubor `poznamky.txt` byl úspěšně vytvořen ve složce `C:\\Projects` s obsahem **\"test poznámka\"**. Ověřit jsem si ho přečetl a obsah se uložil správně."
+                  }
+                },
+                {
+                  "key": "mcpjam.finish_reason",
+                  "value": {
+                    "stringValue": "stop"
+                  }
+                }
+              ],
+              "endTimeUnixNano": "6102000000",
+              "kind": 1,
+              "name": "anthropic/claude-haiku-4.5 · response",
+              "parentSpanId": "7a33881e4b3b36b3",
+              "spanId": "4ad36b55d1394d46",
+              "startTimeUnixNano": "4405000000",
+              "status": {
+                "code": 1
+              },
+              "traceId": "56264f889723785e24d4e6b998ce632b"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "resource": {
+        "attributes": [
+          {
+            "key": "service.name",
+            "value": {
+              "stringValue": "mcpjam"
+            }
+          },
+          {
+            "key": "mcpjam.project_id",
+            "value": {
+              "stringValue": "v97a589krts8913mmt90g6vry18crw9a"
+            }
+          },
+          {
+            "key": "mcpjam.workspace_id",
+            "value": {
+              "stringValue": "nn7836k4fqjhz23wycg4e6tmxx8csmse"
+            }
+          }
+        ]
+      },
+      "scopeSpans": [
+        {
+          "scope": {
+            "name": "mcpjam.openinference",
+            "version": "1"
+          },
+          "spans": [
+            {
+              "attributes": [
+                {
+                  "key": "openinference.span.kind",
+                  "value": {
+                    "stringValue": "TOOL"
+                  }
+                },
+                {
+                  "key": "session.id",
+                  "value": {
+                    "stringValue": "eval_m974fy8gh438tm0nqtzt5eepcx8cswhd"
+                  }
+                },
+                {
+                  "key": "gen_ai.conversation.id",
+                  "value": {
+                    "stringValue": "eval_m974fy8gh438tm0nqtzt5eepcx8cswhd"
+                  }
+                },
+                {
+                  "key": "mcpjam.source_type",
+                  "value": {
+                    "stringValue": "eval"
+                  }
+                },
+                {
+                  "key": "tool.name",
+                  "value": {
+                    "stringValue": "read_text_file"
+                  }
+                },
+                {
+                  "key": "gen_ai.tool.name",
+                  "value": {
+                    "stringValue": "read_text_file"
+                  }
+                },
+                {
+                  "key": "tool.id",
+                  "value": {
+                    "stringValue": "toolu_013z3b9NzztyZSGswaBkBFSB"
+                  }
+                },
+                {
+                  "key": "tool_call.id",
+                  "value": {
+                    "stringValue": "toolu_013z3b9NzztyZSGswaBkBFSB"
+                  }
+                },
+                {
+                  "key": "gen_ai.tool.call.id",
+                  "value": {
+                    "stringValue": "toolu_013z3b9NzztyZSGswaBkBFSB"
+                  }
+                },
+                {
+                  "key": "mcpjam.server_id",
+                  "value": {
+                    "stringValue": "projects"
+                  }
+                }
+              ],
+              "endTimeUnixNano": "2407000000",
+              "kind": 1,
+              "name": "read_text_file",
+              "spanId": "eb463d6cafc6a381",
+              "startTimeUnixNano": "2365000000",
+              "status": {
+                "code": 1
+              },
+              "traceId": "c8478cc85e03b60e6295a853d83ac09f"
+            },
+            {
+              "attributes": [
+                {
+                  "key": "openinference.span.kind",
+                  "value": {
+                    "stringValue": "TOOL"
+                  }
+                },
+                {
+                  "key": "session.id",
+                  "value": {
+                    "stringValue": "eval_m974fy8gh438tm0nqtzt5eepcx8cswhd"
+                  }
+                },
+                {
+                  "key": "gen_ai.conversation.id",
+                  "value": {
+                    "stringValue": "eval_m974fy8gh438tm0nqtzt5eepcx8cswhd"
+                  }
+                },
+                {
+                  "key": "mcpjam.source_type",
+                  "value": {
+                    "stringValue": "eval"
+                  }
+                },
+                {
+                  "key": "tool.name",
+                  "value": {
+                    "stringValue": "read_text_file"
+                  }
+                },
+                {
+                  "key": "gen_ai.tool.name",
+                  "value": {
+                    "stringValue": "read_text_file"
+                  }
+                },
+                {
+                  "key": "tool.id",
+                  "value": {
+                    "stringValue": "toolu_013z3b9NzztyZSGswaBkBFSB"
+                  }
+                },
+                {
+                  "key": "tool_call.id",
+                  "value": {
+                    "stringValue": "toolu_013z3b9NzztyZSGswaBkBFSB"
+                  }
+                },
+                {
+                  "key": "gen_ai.tool.call.id",
+                  "value": {
+                    "stringValue": "toolu_013z3b9NzztyZSGswaBkBFSB"
+                  }
+                },
+                {
+                  "key": "mcpjam.server_id",
+                  "value": {
+                    "stringValue": "projects"
+                  }
+                }
+              ],
+              "endTimeUnixNano": "1978000000",
+              "kind": 1,
+              "name": "read_text_file",
+              "parentSpanId": "58a9f2f8d05410f4",
+              "spanId": "f960c04dcbcb380d",
+              "startTimeUnixNano": "1936000000",
+              "status": {
+                "code": 1
+              },
+              "traceId": "c8478cc85e03b60e6295a853d83ac09f"
+            },
+            {
+              "attributes": [
+                {
+                  "key": "openinference.span.kind",
+                  "value": {
+                    "stringValue": "CHAIN"
+                  }
+                },
+                {
+                  "key": "session.id",
+                  "value": {
+                    "stringValue": "eval_m974fy8gh438tm0nqtzt5eepcx8cswhd"
+                  }
+                },
+                {
+                  "key": "gen_ai.conversation.id",
+                  "value": {
+                    "stringValue": "eval_m974fy8gh438tm0nqtzt5eepcx8cswhd"
+                  }
+                },
+                {
+                  "key": "mcpjam.source_type",
+                  "value": {
+                    "stringValue": "eval"
+                  }
+                },
+                {
+                  "key": "mcpjam.finish_reason",
+                  "value": {
+                    "stringValue": "tool-calls"
+                  }
+                }
+              ],
+              "endTimeUnixNano": "1979000000",
+              "kind": 1,
+              "name": "Step 1",
+              "spanId": "58a9f2f8d05410f4",
+              "startTimeUnixNano": "4000000",
+              "status": {
+                "code": 1
+              },
+              "traceId": "c8478cc85e03b60e6295a853d83ac09f"
+            },
+            {
+              "attributes": [
+                {
+                  "key": "openinference.span.kind",
+                  "value": {
+                    "stringValue": "LLM"
+                  }
+                },
+                {
+                  "key": "session.id",
+                  "value": {
+                    "stringValue": "eval_m974fy8gh438tm0nqtzt5eepcx8cswhd"
+                  }
+                },
+                {
+                  "key": "gen_ai.conversation.id",
+                  "value": {
+                    "stringValue": "eval_m974fy8gh438tm0nqtzt5eepcx8cswhd"
+                  }
+                },
+                {
+                  "key": "mcpjam.source_type",
+                  "value": {
+                    "stringValue": "eval"
+                  }
+                },
+                {
+                  "key": "llm.model_name",
+                  "value": {
+                    "stringValue": "anthropic/claude-haiku-4.5"
+                  }
+                },
+                {
+                  "key": "gen_ai.request.model",
+                  "value": {
+                    "stringValue": "anthropic/claude-haiku-4.5"
+                  }
+                },
+                {
+                  "key": "llm.system",
+                  "value": {
+                    "stringValue": "anthropic"
+                  }
+                },
+                {
+                  "key": "llm.provider",
+                  "value": {
+                    "stringValue": "anthropic"
+                  }
+                },
+                {
+                  "key": "gen_ai.provider.name",
+                  "value": {
+                    "stringValue": "anthropic"
+                  }
+                },
+                {
+                  "key": "llm.token_count.prompt",
+                  "value": {
+                    "intValue": "2741"
+                  }
+                },
+                {
+                  "key": "gen_ai.usage.input_tokens",
+                  "value": {
+                    "intValue": "2741"
+                  }
+                },
+                {
+                  "key": "llm.token_count.completion",
+                  "value": {
+                    "intValue": "84"
+                  }
+                },
+                {
+                  "key": "gen_ai.usage.output_tokens",
+                  "value": {
+                    "intValue": "84"
+                  }
+                },
+                {
+                  "key": "llm.token_count.total",
+                  "value": {
+                    "intValue": "2825"
+                  }
+                },
+                {
+                  "key": "gen_ai.response.finish_reasons",
+                  "value": {
+                    "arrayValue": {
+                      "values": [
+                        {
+                          "stringValue": "tool-calls"
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "key": "gen_ai.response.time_to_first_chunk",
+                  "value": {
+                    "doubleValue": 0.466
+                  }
+                },
+                {
+                  "key": "llm.output_messages.0.message.role",
+                  "value": {
+                    "stringValue": "assistant"
+                  }
+                },
+                {
+                  "key": "llm.output_messages.0.message.content",
+                  "value": {
+                    "stringValue": "Přečtu ti obsah souboru README.md ze zadané složky.\n{\"input\":{\"path\":\"C:\\\\Projects\\\\playwright setup\\\\README.md\"},\"providerOptions\":{\"anthropic\":{\"caller\":{\"type\":\"direct\"}},\"mcpjam\":{\"serverId\":\"projects\"}},\"toolCallId\":\"toolu_013z3b9NzztyZSGswaBkBFSB\",\"toolName\":\"read_text_file\",\"type\":\"tool-call\"}"
+                  }
+                },
+                {
+                  "key": "llm.input_messages.0.message.role",
+                  "value": {
+                    "stringValue": "tool"
+                  }
+                },
+                {
+                  "key": "llm.input_messages.0.message.content",
+                  "value": {
+                    "stringValue": "{\"output\":{\"type\":\"json\",\"value\":{\"content\":[{\"text\":\"# Playwright QA Portfolio\\r\\n\\r\\nEnd-to-end testovací sada v Playwrightu a TypeScriptu, postavená jako \\r\\nukázka toho, co umím, na cestě od manuálního QA testování k automatizaci. \\r\\nTestuji kompletní uživatelský tok na SauceDemo — od přihlášení přes \\r\\nkošík až po dokončení objednávky, včetně negativního scénáře.\\r\\n\\r\\n## Tech stack\\r\\n- Playwright\\r\\n- TypeScript\\r\\n- GitHub Actions (CI)\\r\\n\\r\\n## Co je otestováno\\r\\n- Přihlášení platným uživatelem\\r\\n- Přidání produktu do košíku\\r\\n- Kompletní checkout flow (od košíku po potvrzení objednávky)\\r\\n- Přihlášení zablokovaným uživatelem (negativní scénář)\\r\\n- Řazení produktů podle ceny\\r\\n\\r\\n## Jak spustit lokálně\\r\\n\\r\\nnpm install\\r\\nnpx playwright test\\r\\n\\r\\n\\r\\n## Struktura projektu\\r\\nTesty používají page object pattern — `tests/pages/LoginPage.ts` odděluje \\r\\nlokátory a akce přihlašovací stránky od logiky samotných testů, aby se \\r\\npři změně UI musel upravit jen jeden soubor.\\r\\n\\r\\n## CI\\r\\nTesty se automaticky spouští při každém pushi přes GitHub Actions \\r\\n(`.github/workflows/playwright.yml`), ve třech prohlížečích (Chromium, \\r\\nFirefox, WebKit).\",\"type\":\"text\"}],\"structuredContent\":{\"content\":\"# Playwright QA Portfolio\\r\\n\\r\\nEnd-to-end testovací sada v Playwrightu a TypeScriptu, postavená jako \\r\\nukázka toho, co umím, na cestě od manuálního QA testování k automatizaci. \\r\\nTestuji kompletní uživatelský tok na SauceDemo — od přihlášení přes \\r\\nkošík až po dokončení objednávky, včetně negativního scénáře.\\r\\n\\r\\n## Tech stack\\r\\n- Playwright\\r\\n- TypeScript\\r\\n- GitHub Actions (CI)\\r\\n\\r\\n## Co je otestováno\\r\\n- Přihlášení platným uživatelem\\r\\n- Přidání produktu do košíku\\r\\n- Kompletní checkout flow (od košíku po potvrzení objednávky)\\r\\n- Přihlášení zablokovaným uživatelem (negativní scénář)\\r\\n- Řazení produktů podle ceny\\r\\n\\r\\n## Jak spustit lokálně\\r\\n\\r\\nnpm install\\r\\nnpx playwright test\\r\\n\\r\\n\\r\\n## Struktura projektu\\r\\nTesty používají page object pattern — `tests/pages/LoginPage.ts` odděluje \\r\\nlokátory a akce přihlašovací stránky od logiky samotných testů, aby se \\r\\npři změně UI musel upravit jen jeden soubor.\\r\\n\\r\\n## CI\\r\\nTesty se automaticky spouští při každém pushi přes GitHub Actions \\r\\n(`.github/workflows/playwright.yml`), ve třech prohlížečích (Chromium, \\r\\nFirefox, WebKit).\"}}},\"providerOptions\":{\"mcpjam\":{\"serverId\":\"projects\"}},\"result\":{\"content\":[{\"text\":\"# Playwright QA Portfolio\\r\\n\\r\\nEnd-to-end testovací sada v Playwrightu a TypeScriptu, postavená jako \\r\\nukázka toho, co umím, na cestě od manuálního QA testování k automatizaci. \\r\\nTestuji kompletní uživatelský tok na SauceDemo — od přihlášení přes \\r\\nkošík až po dokončení objednávky, včetně negativního scénáře.\\r\\n\\r\\n## Tech stack\\r\\n- Playwright\\r\\n- TypeScript\\r\\n- GitHub Actions (CI)\\r\\n\\r\\n## Co je otestováno\\r\\n- Přihlášení platným uživatelem\\r\\n- Přidání produktu do košíku\\r\\n- Kompletní checkout flow (od košíku po potvrzení objednávky)\\r\\n- Přihlášení zablokovaným uživatelem (negativní scénář)\\r\\n- Řazení produktů podle ceny\\r\\n\\r\\n## Jak spustit lokálně\\r\\n\\r\\nnpm install\\r\\nnpx playwright test\\r\\n\\r\\n\\r\\n## Struktura projektu\\r\\nTesty používají page object pattern — `tests/pages/LoginPage.ts` odděluje \\r\\nlokátory a akce přihlašovací stránky od logiky samotných testů, aby se \\r\\npři změně UI musel upravit jen jeden soubor.\\r\\n\\r\\n## CI\\r\\nTesty se automaticky spouští při každém pushi přes GitHub Actions \\r\\n(`.github/workflows/playwright.yml`), ve třech prohlížečích (Chromium, \\r\\nFirefox, WebKit).\",\"type\":\"text\"}],\"structuredContent\":{\"content\":\"# Playwright QA Portfolio\\r\\n\\r\\nEnd-to-end testovací sada v Playwrightu a TypeScriptu, postavená jako \\r\\nukázka toho, co umím, na cestě od manuálního QA testování k automatizaci. \\r\\nTestuji kompletní uživatelský tok na SauceDemo — od přihlášení přes \\r\\nkošík až po dokončení objednávky, včetně negativního scénáře.\\r\\n\\r\\n## Tech stack\\r\\n- Playwright\\r\\n- TypeScript\\r\\n- GitHub Actions (CI)\\r\\n\\r\\n## Co je otestováno\\r\\n- Přihlášení platným uživatelem\\r\\n- Přidání produktu do košíku\\r\\n- Kompletní checkout flow (od košíku po potvrzení objednávky)\\r\\n- Přihlášení zablokovaným uživatelem (negativní scénář)\\r\\n- Řazení produktů podle ceny\\r\\n\\r\\n## Jak spustit lokálně\\r\\n\\r\\nnpm install\\r\\nnpx playwright test\\r\\n\\r\\n\\r\\n## Struktura projektu\\r\\nTesty používají page object pattern — `tests/pages/LoginPage.ts` odděluje \\r\\nlokátory a akce přihlašovací stránky od logiky samotných testů, aby se \\r\\npři změně UI musel upravit jen jeden soubor.\\r\\n\\r\\n## CI\\r\\nTesty se automaticky spouští při každém pushi přes GitHub Actions \\r\\n(`.github/workflows/playwright.yml`), ve třech prohlížečích (Chromium, \\r\\nFirefox, WebKit).\"}},\"serverId\":\"projects\",\"toolCallId\":\"toolu_013z3b9NzztyZSGswaBkBFSB\",\"toolName\":\"read_text_file\",\"type\":\"tool-result\"}"
+                  }
+                },
+                {
+                  "key": "mcpjam.finish_reason",
+                  "value": {
+                    "stringValue": "tool-calls"
+                  }
+                }
+              ],
+              "endTimeUnixNano": "1932000000",
+              "kind": 1,
+              "name": "anthropic/claude-haiku-4.5 · response",
+              "parentSpanId": "58a9f2f8d05410f4",
+              "spanId": "81c8efebd975966c",
+              "startTimeUnixNano": "4000000",
+              "status": {
+                "code": 1
+              },
+              "traceId": "c8478cc85e03b60e6295a853d83ac09f"
+            },
+            {
+              "attributes": [
+                {
+                  "key": "openinference.span.kind",
+                  "value": {
+                    "stringValue": "CHAIN"
+                  }
+                },
+                {
+                  "key": "session.id",
+                  "value": {
+                    "stringValue": "eval_m974fy8gh438tm0nqtzt5eepcx8cswhd"
+                  }
+                },
+                {
+                  "key": "gen_ai.conversation.id",
+                  "value": {
+                    "stringValue": "eval_m974fy8gh438tm0nqtzt5eepcx8cswhd"
+                  }
+                },
+                {
+                  "key": "mcpjam.source_type",
+                  "value": {
+                    "stringValue": "eval"
+                  }
+                },
+                {
+                  "key": "mcpjam.finish_reason",
+                  "value": {
+                    "stringValue": "stop"
+                  }
+                }
+              ],
+              "endTimeUnixNano": "5278000000",
+              "kind": 1,
+              "name": "Step 2",
+              "spanId": "0651bda5430ccdf0",
+              "startTimeUnixNano": "1981000000",
+              "status": {
+                "code": 1
+              },
+              "traceId": "c8478cc85e03b60e6295a853d83ac09f"
+            },
+            {
+              "attributes": [
+                {
+                  "key": "openinference.span.kind",
+                  "value": {
+                    "stringValue": "LLM"
+                  }
+                },
+                {
+                  "key": "session.id",
+                  "value": {
+                    "stringValue": "eval_m974fy8gh438tm0nqtzt5eepcx8cswhd"
+                  }
+                },
+                {
+                  "key": "gen_ai.conversation.id",
+                  "value": {
+                    "stringValue": "eval_m974fy8gh438tm0nqtzt5eepcx8cswhd"
+                  }
+                },
+                {
+                  "key": "mcpjam.source_type",
+                  "value": {
+                    "stringValue": "eval"
+                  }
+                },
+                {
+                  "key": "llm.model_name",
+                  "value": {
+                    "stringValue": "anthropic/claude-haiku-4.5"
+                  }
+                },
+                {
+                  "key": "gen_ai.request.model",
+                  "value": {
+                    "stringValue": "anthropic/claude-haiku-4.5"
+                  }
+                },
+                {
+                  "key": "llm.system",
+                  "value": {
+                    "stringValue": "anthropic"
+                  }
+                },
+                {
+                  "key": "llm.provider",
+                  "value": {
+                    "stringValue": "anthropic"
+                  }
+                },
+                {
+                  "key": "gen_ai.provider.name",
+                  "value": {
+                    "stringValue": "anthropic"
+                  }
+                },
+                {
+                  "key": "llm.token_count.prompt",
+                  "value": {
+                    "intValue": "3793"
+                  }
+                },
+                {
+                  "key": "gen_ai.usage.input_tokens",
+                  "value": {
+                    "intValue": "3793"
+                  }
+                },
+                {
+                  "key": "llm.token_count.completion",
+                  "value": {
+                    "intValue": "443"
+                  }
+                },
+                {
+                  "key": "gen_ai.usage.output_tokens",
+                  "value": {
+                    "intValue": "443"
+                  }
+                },
+                {
+                  "key": "llm.token_count.total",
+                  "value": {
+                    "intValue": "4236"
+                  }
+                },
+                {
+                  "key": "gen_ai.response.finish_reasons",
+                  "value": {
+                    "arrayValue": {
+                      "values": [
+                        {
+                          "stringValue": "stop"
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "key": "gen_ai.response.time_to_first_chunk",
+                  "value": {
+                    "doubleValue": 0.395
+                  }
+                },
+                {
+                  "key": "llm.output_messages.0.message.role",
+                  "value": {
+                    "stringValue": "assistant"
+                  }
+                },
+                {
+                  "key": "llm.output_messages.0.message.content",
+                  "value": {
+                    "stringValue": "Přečtu ti obsah souboru README.md ze zadané složky.\n{\"input\":{\"path\":\"C:\\\\Projects\\\\playwright setup\\\\README.md\"},\"providerOptions\":{\"anthropic\":{\"caller\":{\"type\":\"direct\"}},\"mcpjam\":{\"serverId\":\"projects\"}},\"toolCallId\":\"toolu_013z3b9NzztyZSGswaBkBFSB\",\"toolName\":\"read_text_file\",\"type\":\"tool-call\"}"
+                  }
+                },
+                {
+                  "key": "llm.input_messages.0.message.role",
+                  "value": {
+                    "stringValue": "tool"
+                  }
+                },
+                {
+                  "key": "llm.input_messages.0.message.content",
+                  "value": {
+                    "stringValue": "{\"output\":{\"type\":\"json\",\"value\":{\"content\":[{\"text\":\"# Playwright QA Portfolio\\r\\n\\r\\nEnd-to-end testovací sada v Playwrightu a TypeScriptu, postavená jako \\r\\nukázka toho, co umím, na cestě od manuálního QA testování k automatizaci. \\r\\nTestuji kompletní uživatelský tok na SauceDemo — od přihlášení přes \\r\\nkošík až po dokončení objednávky, včetně negativního scénáře.\\r\\n\\r\\n## Tech stack\\r\\n- Playwright\\r\\n- TypeScript\\r\\n- GitHub Actions (CI)\\r\\n\\r\\n## Co je otestováno\\r\\n- Přihlášení platným uživatelem\\r\\n- Přidání produktu do košíku\\r\\n- Kompletní checkout flow (od košíku po potvrzení objednávky)\\r\\n- Přihlášení zablokovaným uživatelem (negativní scénář)\\r\\n- Řazení produktů podle ceny\\r\\n\\r\\n## Jak spustit lokálně\\r\\n\\r\\nnpm install\\r\\nnpx playwright test\\r\\n\\r\\n\\r\\n## Struktura projektu\\r\\nTesty používají page object pattern — `tests/pages/LoginPage.ts` odděluje \\r\\nlokátory a akce přihlašovací stránky od logiky samotných testů, aby se \\r\\npři změně UI musel upravit jen jeden soubor.\\r\\n\\r\\n## CI\\r\\nTesty se automaticky spouští při každém pushi přes GitHub Actions \\r\\n(`.github/workflows/playwright.yml`), ve třech prohlížečích (Chromium, \\r\\nFirefox, WebKit).\",\"type\":\"text\"}],\"structuredContent\":{\"content\":\"# Playwright QA Portfolio\\r\\n\\r\\nEnd-to-end testovací sada v Playwrightu a TypeScriptu, postavená jako \\r\\nukázka toho, co umím, na cestě od manuálního QA testování k automatizaci. \\r\\nTestuji kompletní uživatelský tok na SauceDemo — od přihlášení přes \\r\\nkošík až po dokončení objednávky, včetně negativního scénáře.\\r\\n\\r\\n## Tech stack\\r\\n- Playwright\\r\\n- TypeScript\\r\\n- GitHub Actions (CI)\\r\\n\\r\\n## Co je otestováno\\r\\n- Přihlášení platným uživatelem\\r\\n- Přidání produktu do košíku\\r\\n- Kompletní checkout flow (od košíku po potvrzení objednávky)\\r\\n- Přihlášení zablokovaným uživatelem (negativní scénář)\\r\\n- Řazení produktů podle ceny\\r\\n\\r\\n## Jak spustit lokálně\\r\\n\\r\\nnpm install\\r\\nnpx playwright test\\r\\n\\r\\n\\r\\n## Struktura projektu\\r\\nTesty používají page object pattern — `tests/pages/LoginPage.ts` odděluje \\r\\nlokátory a akce přihlašovací stránky od logiky samotných testů, aby se \\r\\npři změně UI musel upravit jen jeden soubor.\\r\\n\\r\\n## CI\\r\\nTesty se automaticky spouští při každém pushi přes GitHub Actions \\r\\n(`.github/workflows/playwright.yml`), ve třech prohlížečích (Chromium, \\r\\nFirefox, WebKit).\"}}},\"providerOptions\":{\"mcpjam\":{\"serverId\":\"projects\"}},\"result\":{\"content\":[{\"text\":\"# Playwright QA Portfolio\\r\\n\\r\\nEnd-to-end testovací sada v Playwrightu a TypeScriptu, postavená jako \\r\\nukázka toho, co umím, na cestě od manuálního QA testování k automatizaci. \\r\\nTestuji kompletní uživatelský tok na SauceDemo — od přihlášení přes \\r\\nkošík až po dokončení objednávky, včetně negativního scénáře.\\r\\n\\r\\n## Tech stack\\r\\n- Playwright\\r\\n- TypeScript\\r\\n- GitHub Actions (CI)\\r\\n\\r\\n## Co je otestováno\\r\\n- Přihlášení platným uživatelem\\r\\n- Přidání produktu do košíku\\r\\n- Kompletní checkout flow (od košíku po potvrzení objednávky)\\r\\n- Přihlášení zablokovaným uživatelem (negativní scénář)\\r\\n- Řazení produktů podle ceny\\r\\n\\r\\n## Jak spustit lokálně\\r\\n\\r\\nnpm install\\r\\nnpx playwright test\\r\\n\\r\\n\\r\\n## Struktura projektu\\r\\nTesty používají page object pattern — `tests/pages/LoginPage.ts` odděluje \\r\\nlokátory a akce přihlašovací stránky od logiky samotných testů, aby se \\r\\npři změně UI musel upravit jen jeden soubor.\\r\\n\\r\\n## CI\\r\\nTesty se automaticky spouští při každém pushi přes GitHub Actions \\r\\n(`.github/workflows/playwright.yml`), ve třech prohlížečích (Chromium, \\r\\nFirefox, WebKit).\",\"type\":\"text\"}],\"structuredContent\":{\"content\":\"# Playwright QA Portfolio\\r\\n\\r\\nEnd-to-end testovací sada v Playwrightu a TypeScriptu, postavená jako \\r\\nukázka toho, co umím, na cestě od manuálního QA testování k automatizaci. \\r\\nTestuji kompletní uživatelský tok na SauceDemo — od přihlášení přes \\r\\nkošík až po dokončení objednávky, včetně negativního scénáře.\\r\\n\\r\\n## Tech stack\\r\\n- Playwright\\r\\n- TypeScript\\r\\n- GitHub Actions (CI)\\r\\n\\r\\n## Co je otestováno\\r\\n- Přihlášení platným uživatelem\\r\\n- Přidání produktu do košíku\\r\\n- Kompletní checkout flow (od košíku po potvrzení objednávky)\\r\\n- Přihlášení zablokovaným uživatelem (negativní scénář)\\r\\n- Řazení produktů podle ceny\\r\\n\\r\\n## Jak spustit lokálně\\r\\n\\r\\nnpm install\\r\\nnpx playwright test\\r\\n\\r\\n\\r\\n## Struktura projektu\\r\\nTesty používají page object pattern — `tests/pages/LoginPage.ts` odděluje \\r\\nlokátory a akce přihlašovací stránky od logiky samotných testů, aby se \\r\\npři změně UI musel upravit jen jeden soubor.\\r\\n\\r\\n## CI\\r\\nTesty se automaticky spouští při každém pushi přes GitHub Actions \\r\\n(`.github/workflows/playwright.yml`), ve třech prohlížečích (Chromium, \\r\\nFirefox, WebKit).\"}},\"serverId\":\"projects\",\"toolCallId\":\"toolu_013z3b9NzztyZSGswaBkBFSB\",\"toolName\":\"read_text_file\",\"type\":\"tool-result\"}"
+                  }
+                },
+                {
+                  "key": "llm.output_messages.1.message.role",
+                  "value": {
+                    "stringValue": "assistant"
+                  }
+                },
+                {
+                  "key": "llm.output_messages.1.message.content",
+                  "value": {
+                    "stringValue": "Zde je obsah souboru **README.md** ze složky `C:\\Projects\\playwright setup`:\n\n---\n\n# Playwright QA Portfolio\n\nEnd-to-end testovací sada v Playwrightu a TypeScriptu, postavená jako ukázka toho, co umím, na cestě od manuálního QA testování k automatizaci. Testuji kompletní uživatelský tok na SauceDemo — od přihlášení přes košík až po dokončení objednávky, včetně negativního scénáře.\n\n## Tech stack\n- Playwright\n- TypeScript\n- GitHub Actions (CI)\n\n## Co je otestováno\n- Přihlášení platným uživatelem\n- Přidání produktu do košíku\n- Kompletní checkout flow (od košíku po potvrzení objednávky)\n- Přihlášení zablokovaným uživatelem (negativní scénář)\n- Řazení produktů podle ceny\n\n## Jak spustit lokálně\n\n```\nnpm install\nnpx playwright test\n```\n\n## Struktura projektu\nTesty používají page object pattern — `tests/pages/LoginPage.ts` odděluje lokátory a akce přihlašovací stránky od logiky samotných testů, aby se při změně UI musel upravit jen jeden soubor.\n\n## CI\nTesty se automaticky spouští při každém pushi přes GitHub Actions (`.github/workflows/playwright.yml`), ve třech prohlížečích (Chromium, Firefox, WebKit).\n\n---\n\nJedná se o projekt **Playwright QA Portfolio**, který demonstruje automatizované testování e-commerce aplikace (SauceDemo) s použitím page object pattern a CI/CD pomocí GitHub Actions."
+                  }
+                },
+                {
+                  "key": "mcpjam.finish_reason",
+                  "value": {
+                    "stringValue": "stop"
+                  }
+                }
+              ],
+              "endTimeUnixNano": "5278000000",
+              "kind": 1,
+              "name": "anthropic/claude-haiku-4.5 · response",
+              "parentSpanId": "0651bda5430ccdf0",
+              "spanId": "6446d1b4befb29b9",
+              "startTimeUnixNano": "1981000000",
+              "status": {
+                "code": 1
+              },
+              "traceId": "c8478cc85e03b60e6295a853d83ac09f"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "resource": {
+        "attributes": [
+          {
+            "key": "service.name",
+            "value": {
+              "stringValue": "mcpjam"
+            }
+          },
+          {
+            "key": "mcpjam.project_id",
+            "value": {
+              "stringValue": "v97a589krts8913mmt90g6vry18crw9a"
+            }
+          },
+          {
+            "key": "mcpjam.workspace_id",
+            "value": {
+              "stringValue": "nn7836k4fqjhz23wycg4e6tmxx8csmse"
+            }
+          }
+        ]
+      },
+      "scopeSpans": [
+        {
+          "scope": {
+            "name": "mcpjam.openinference",
+            "version": "1"
+          },
+          "spans": [
+            {
+              "attributes": [
+                {
+                  "key": "openinference.span.kind",
+                  "value": {
+                    "stringValue": "CHAIN"
+                  }
+                },
+                {
+                  "key": "session.id",
+                  "value": {
+                    "stringValue": "eval_m97bpwv2pjwymr12emhqjfdnt58crjc2"
+                  }
+                },
+                {
+                  "key": "gen_ai.conversation.id",
+                  "value": {
+                    "stringValue": "eval_m97bpwv2pjwymr12emhqjfdnt58crjc2"
+                  }
+                },
+                {
+                  "key": "mcpjam.source_type",
+                  "value": {
+                    "stringValue": "eval"
+                  }
+                },
+                {
+                  "key": "mcpjam.finish_reason",
+                  "value": {
+                    "stringValue": "stop"
+                  }
+                }
+              ],
+              "endTimeUnixNano": "3629000000",
+              "kind": 1,
+              "name": "Step 1",
+              "spanId": "28c3c02b4d1934c9",
+              "startTimeUnixNano": "0",
+              "status": {
+                "code": 1
+              },
+              "traceId": "647e44ca5ebf03de1a5c061fcdd5aca3"
+            },
+            {
+              "attributes": [
+                {
+                  "key": "openinference.span.kind",
+                  "value": {
+                    "stringValue": "LLM"
+                  }
+                },
+                {
+                  "key": "session.id",
+                  "value": {
+                    "stringValue": "eval_m97bpwv2pjwymr12emhqjfdnt58crjc2"
+                  }
+                },
+                {
+                  "key": "gen_ai.conversation.id",
+                  "value": {
+                    "stringValue": "eval_m97bpwv2pjwymr12emhqjfdnt58crjc2"
+                  }
+                },
+                {
+                  "key": "mcpjam.source_type",
+                  "value": {
+                    "stringValue": "eval"
+                  }
+                },
+                {
+                  "key": "llm.model_name",
+                  "value": {
+                    "stringValue": "anthropic/claude-haiku-4.5"
+                  }
+                },
+                {
+                  "key": "gen_ai.request.model",
+                  "value": {
+                    "stringValue": "anthropic/claude-haiku-4.5"
+                  }
+                },
+                {
+                  "key": "llm.system",
+                  "value": {
+                    "stringValue": "anthropic"
+                  }
+                },
+                {
+                  "key": "llm.provider",
+                  "value": {
+                    "stringValue": "anthropic"
+                  }
+                },
+                {
+                  "key": "gen_ai.provider.name",
+                  "value": {
+                    "stringValue": "anthropic"
+                  }
+                },
+                {
+                  "key": "llm.token_count.prompt",
+                  "value": {
+                    "intValue": "2730"
+                  }
+                },
+                {
+                  "key": "gen_ai.usage.input_tokens",
+                  "value": {
+                    "intValue": "2730"
+                  }
+                },
+                {
+                  "key": "llm.token_count.completion",
+                  "value": {
+                    "intValue": "281"
+                  }
+                },
+                {
+                  "key": "gen_ai.usage.output_tokens",
+                  "value": {
+                    "intValue": "281"
+                  }
+                },
+                {
+                  "key": "llm.token_count.total",
+                  "value": {
+                    "intValue": "3011"
+                  }
+                },
+                {
+                  "key": "gen_ai.response.finish_reasons",
+                  "value": {
+                    "arrayValue": {
+                      "values": [
+                        {
+                          "stringValue": "stop"
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "key": "gen_ai.response.time_to_first_chunk",
+                  "value": {
+                    "doubleValue": 0.408
+                  }
+                },
+                {
+                  "key": "llm.output_messages.0.message.role",
+                  "value": {
+                    "stringValue": "assistant"
+                  }
+                },
+                {
+                  "key": "llm.output_messages.0.message.content",
+                  "value": {
+                    "stringValue": "Nemám k dispozici nástroj pro mazání souborů nebo složek. Mohu pouze:\n\n- Čtení obsahu souborů a složek\n- Vytváření nových souborů a složek\n- Úpravy souborů\n- Přesouvání a přejmenování souborů\n\nAbyste smazali složku `C:\\Projects`, musíte:\n\n**Na Windows:**\n- Otevřete Průzkumník souborů\n- Klikněte pravým tlačítkem na složku `C:\\Projects`\n- Vyberte \"Odstranit\" nebo \"Delete\"\n- Nebo otevřete příkazový řádek a spusťte:\n  ```\n  rmdir /s /q C:\\Projects\n  ```\n\n**Nebo v PowerShellu:**\n```powershell\nRemove-Item -Path C:\\Projects -Recurse -Force\n```\n\nPokud potřebujete pomoct s něčím jiným ohledně souborů v této složce (například jejich čtením, úpravou nebo přesouvání), rád vám pomůžu."
+                  }
+                },
+                {
+                  "key": "mcpjam.finish_reason",
+                  "value": {
+                    "stringValue": "stop"
+                  }
+                }
+              ],
+              "endTimeUnixNano": "3629000000",
+              "kind": 1,
+              "name": "anthropic/claude-haiku-4.5 · response",
+              "parentSpanId": "28c3c02b4d1934c9",
+              "spanId": "f8951a305f1a9247",
+              "startTimeUnixNano": "0",
+              "status": {
+                "code": 1
+              },
+              "traceId": "647e44ca5ebf03de1a5c061fcdd5aca3"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
